@@ -123,6 +123,10 @@ Functions that do *not* change the environment (and thus only return a value) ar
 
 Pure functions are generally easier to reason about and test because they are ***deterministic*** (i.e. predictable).
 
+Pure functions also provide for easier composition.
+
+![alt tag](https://raw.githubusercontent.com/ATL-WDI-Curriculum/js-functions/master/images/composite-function.png)
+
 One of the primary characteristics of ***Functional Programming*** is that most or all of the functions are ***pure*** functions.
 
 ### Functions in Variables
@@ -239,7 +243,6 @@ function add(x, y) {
   return sum;
 }
 
-// What gets executed
 // What gets executed
 function add(x, y) {
   var sum;
