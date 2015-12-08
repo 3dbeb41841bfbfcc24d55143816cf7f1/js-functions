@@ -2,6 +2,8 @@
 
 ## Functions in Mathematics:
 
+![alt tag](https://raw.githubusercontent.com/ATL-WDI-Curriculum/js-functions/master/images/function_math.png)
+
 Given a simple function
 
     y = f(x)
