@@ -123,7 +123,7 @@ Functions that do *not* change the environment (and thus only return a value) ar
 
 Pure functions are generally easier to reason about and test because they are ***deterministic*** (i.e. predictable).
 
-Pure functions also provide for easier composition.
+Pure functions also provide for easier ***composition***.
 
 ![alt tag](https://raw.githubusercontent.com/ATL-WDI-Curriculum/js-functions/master/images/composite-function.png)
 
