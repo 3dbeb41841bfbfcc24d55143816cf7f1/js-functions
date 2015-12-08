@@ -36,8 +36,8 @@ function square(x) { 
   return x * x; 
 }
  
-// calling the function var
-y = square(3);
+// calling the function
+var y = square(3);
 console.log("y = " + y);  // will print "y = 9"
 ```
 
