@@ -15,7 +15,7 @@
 
 ## Why are Functions Important?
 
-* Keep your code **DRY** - functions allow us to *reuse* the same block of code
+* Keep your code **DRY** - functions allow us to encapsulate and *reuse* the same block of code
 * **Abstraction** - functions allow us to define a problem and solve it in an encapsulated way
 * **Testability** - because functions are well-defined, they are easy to test for correctness
 * **Libraries** - Another form of reuse, we can use JavaScript libraries to contain functions we plan to use over and over
@@ -62,6 +62,14 @@ function square(x) { 
 var y = square(3);
 console.log("y = " + y);  // will print "y = 9"
 ```
+
+This is a simple example of a function but there is a lot going on:
+
+* We have defined a function with the name `square`
+* The function takes a single parameter which has the name `x`
+* The function has a body defined by `{` and `}` where the function does its work
+* The function calculates the square of x
+* The function returns the result of squaring x
 
 ## Definition
 
