@@ -50,7 +50,7 @@ Given a simple function
 
     y = f(x)
 
-if we let f(x) = x2
+if we let f(x) = x^2
 then we have:
 
     f(2) = 4
