@@ -1,5 +1,18 @@
 # JavaScript Functions
 
+{{TOC}}
+
+## What are the objectives?
+
+*After this lesson, developers will be able to:*
+
+* **Describe** why functions are created
+* **Use** functions to break programs into smaller sub-programs
+* **Describe** how parameters relate to functions
+* **Explain** what scope is
+* **Compare** global and local scope
+* **Describe** the `this` keyword and how it is affected by scope
+
 ## Functions in Mathematics:
 
 ![alt tag](https://raw.githubusercontent.com/ATL-WDI-Curriculum/js-functions/master/images/function_math.png)
