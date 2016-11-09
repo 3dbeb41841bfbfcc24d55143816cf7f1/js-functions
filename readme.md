@@ -25,7 +25,6 @@ Instead edit the template file and then run 'md-process'.
   * [Functions in Variables](#functions-in-variables)
   * [More Function Declarations](#more-function-declarations)
 * [Functions as 1st Class Citizens](#functions-as-1st-class-citizens)
-  * [Example #5](#example-5)
 * [Anonymous Functions](#anonymous-functions)
 * [Functions & Scope](#functions-&-scope)
   * [Example #6](#example-6)
@@ -233,11 +232,7 @@ Specifically, this means that the language supports:
 * Passing functions as arguments to other functions
 * Returning functions as the value from other functions
 
-### Example #5
-
-```javascript
-// TODO:
-```
+> Treating functions as arguments to other functions is often used in Event Processing. To handle in interesting event a *callback* function is passed into another function and the callback will be called in the future when an interesting DOM event occurs.
 
 ## Anonymous Functions
 

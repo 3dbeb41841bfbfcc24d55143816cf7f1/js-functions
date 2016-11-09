@@ -203,11 +203,7 @@ Specifically, this means that the language supports:
 * Passing functions as arguments to other functions
 * Returning functions as the value from other functions
 
-### Example #5
-
-```javascript
-// TODO:
-```
+> Treating functions as arguments to other functions is often used in Event Processing. To handle in interesting event a *callback* function is passed into another function and the callback will be called in the future when an interesting DOM event occurs.
 
 ## Anonymous Functions
 
