@@ -13,6 +13,13 @@
 * **Compare** global and local scope
 * **Describe** the `this` keyword and how it is affected by scope
 
+## Why are Functions Important?
+
+* Keep your code **DRY** - functions allow us to *reuse* the same block of code
+* **Abstraction** - functions allow us to define a problem and solve it in an encapsulated way
+* **Testability** - because functions are well-defined, they are easy to test for correctness
+* **Libraries** - Another form of reuse, we can use JavaScript libraries to contain functions we plan to use over and over
+
 ## Functions in Mathematics:
 
 ![alt tag](https://raw.githubusercontent.com/ATL-WDI-Curriculum/js-functions/master/images/function_math.png)
@@ -42,6 +49,8 @@ function <function_name>(arguments) {
 ```
 
 ### Example #1
+
+> Note: we can try out this function in [repl.it](https://repl.it/languages/javascript)
 
 ```javascript
 // function declaration 
